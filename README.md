@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deelaksha</h1>
+<h1 align="center">Hi 👋, I'm DEELAKSHA N J</h1>
 <h3 align="center">🚀 Computer Science & Engineering Student | Coorg Institute of Technology</h3>
 
 ---
@@ -14,7 +14,7 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://github.com/deelaksha22-design target="blank">
+<a href="https://github.com/Deelaksha22 target="Deelaksha N J">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/deelaksha-nj" target="Deelaksha N J">
@@ -39,22 +39,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Deelaksha22&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deelaksha22&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=your-username&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=Deelaksha22&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Deelaksha22&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -73,9 +73,9 @@
 
 ## 📈 Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deelaksha22&theme=react-dark" />
 </p>
 
 ---
 
-⭐️ From [Deelaksha](https://github.com/your-username)
+⭐️ From [Deelaksha N J](https://github.com/Deelaksha22)
